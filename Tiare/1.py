@@ -10,7 +10,7 @@ def dias_con_restriccion(digitos,ppu):
                 res.append(key)
 
     return res
-
+a
 digitos = {
     'lunes' : [6,4,3],
     'martes' : [6,1,3],
